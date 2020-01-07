@@ -1,0 +1,129 @@
+/*body, html {
+  height: 100%;
+}
+.bg {*/
+  /* The image used */
+ /* background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");*/
+
+  /* Full height */
+ /* */
+
+  /* Center and scale the image nicely */
+ /* background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}*/
+.bgImgCenter{
+	width: auto;
+	height: 900px;
+    background-image: url('hero_2.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
+}
+.centered
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+h5
+{
+	font-size:100px;
+	
+}
+.dot
+{
+   height:30px !important;
+  width: 30px !important;
+  border-radius: 50% !important;
+  background-color: #ffffff !important;
+  display: inline-block !important;
+}
+/*h2
+{
+	font-weight: bold;
+}*/
+#img1 {
+				width: 40%;
+				left: -5%;
+				z-index: -1;
+				top:19%;
+				position: relative;
+		} 
+		#img3 {
+				width: 34%;
+				left:  70%;
+				z-index: 1;
+				top: -10%;
+				position: relative;
+		}
+		#img2{
+			position: static;
+			width: 50%;
+			margin-top: 5%;
+		}
+p
+{
+   margin-top: 20px;
+
+   color: #c8d4dc;
+}
+.View
+{
+	color: #ffc157;
+	font-size: 20px; 
+}
+
+.who
+{
+	color: #ffc157;
+	font-size: 10px; 
+}
+.pwho
+{
+	color: #84757d;
+	font-size: 30px; 
+
+}
+
+#Testimonial
+{
+	background-color: #f8f9fa;
+}
+#h2Testimonial 
+{
+	padding-top: 90px;
+	margin-bottom: 58px;
+}
+#do
+{
+	background-color: #ffc107;
+}
+.b2
+{
+	
+	border-color: white !important;
+	margin-bottom: 50px;
+
+}
+.border-3 {
+    border-width:4px !important;
+}
+#footer
+{
+	background-color: #ffc809;
+}
+.a {
+  color: black;
+ 
+  text-decoration: underline;
+}
+.a:hover {
+  color: black;
+}
+.ma
+{
+	padding-top: 185px;
+}
